@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\hesam-ssd\Desktop\REST Token\SSL-Jetty-Server-and-C-sharp-Client\SimpleJettyJersey\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
